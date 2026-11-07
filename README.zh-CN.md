@@ -132,3 +132,18 @@ Blueprints are illustrative designs, not deployed templates. Calculations are co
 
 A planning toolkit for owners, PMs, founders and creators improving specific workflows. Use the full prompt in chat or load modules in a skill-capable tool. It supplies analysis and templates, not automatic business-data access or deployed systems.
 
+
+
+## 按业务选技术与学习 · Technical and learning routes
+
+**[打开路线导航 / Open navigator](https://codyqin.github.io/ai-task-compass/solution-navigator.html)** · [中文技术地图](docs/technical-routes.zh-CN.md) · [English routes](docs/technical-routes.en.md) · [学习路径](docs/learning-paths.zh-CN.md) · [Learning paths](docs/learning-paths.en.md)
+
+12 条路线覆盖规则/结构化输出、文档解析、RAG、业务数据分析、工作流、工具与 MCP、Agent、状态编排、Harness/上下文、模型定制和上线观测。每条包括适用/不适用、起步方案、前提、官方资料、练习与验收。路线可组合，不要求全部学习或安装。
+
+Business-led routes include conditions, simple starts, prerequisites, official resources, exercises and acceptance. Combine only what is needed. These are recommendations and learning guidance, not 12 deployed integrations.
+
+[覆盖与交付层级 / Coverage](docs/coverage-and-scope.md) · [交付与维护检查表 / Delivery checklist](templates/DELIVERY-CHECKLIST.md)
+
+
+
+技术路线数据源 / Route data source: `resources/solution-routes.json`。修改后运行 / After changes run `python scripts/build_routes.py`，它同时生成中英文技术地图和导航页 / generates both guides and the navigator. 提交前 / Before committing: `python scripts/build_routes.py --check`。不要在生成文件里单独维护另一份路线 / Do not maintain separate route lists in generated files.

@@ -41,6 +41,17 @@ Read the Chinese diagram above; English definitions are in the English guide bel
 
 </details>
 
+
+## 按业务选技术与学习 · Technical and learning routes
+
+**[打开路线导航 / Open navigator](https://codyqin.github.io/ai-task-compass/solution-navigator.html)** · [中文技术地图](docs/technical-routes.zh-CN.md) · [English routes](docs/technical-routes.en.md) · [学习路径](docs/learning-paths.zh-CN.md) · [Learning paths](docs/learning-paths.en.md)
+
+12 条路线覆盖规则/结构化输出、文档解析、RAG、业务数据分析、工作流、工具与 MCP、Agent、状态编排、Harness/上下文、模型定制和上线观测。每条包括适用/不适用、起步方案、前提、官方资料、练习与验收。路线可组合，不要求全部学习或安装。
+
+Business-led routes include conditions, simple starts, prerequisites, official resources, exercises and acceptance. Combine only what is needed. These are recommendations and learning guidance, not 12 deployed integrations.
+
+[覆盖与交付层级 / Coverage](docs/coverage-and-scope.md) · [交付与维护检查表 / Delivery checklist](templates/DELIVERY-CHECKLIST.md)
+
 ## 直接拿来用 · Your toolkit
 
 | 你现在想做什么 / Your goal | 入口 / Resource |
@@ -145,7 +156,7 @@ The framework does not install software, deploy systems, contact clients, modify
 
 **Will it always ask many questions?** It should ask the next decision-relevant question, reuse context and allow unknowns. You can request a provisional plan with explicit assumptions.
 
-**Is the output proven?** v0.3 ships usable prompts, a skill and standalone pages. No controlled model benchmark or measured business gains are claimed. Review recommendations against your real work.
+**Is the output proven?** v0.4 ships usable prompts, a skill and standalone pages. No controlled model benchmark or measured business gains are claimed. Review recommendations against your real work.
 
 **What if a recommended tool is unavailable?** Tell the assistant your region, budget, existing accounts and deployment limits. Ask for accessible alternatives and recheck official terms before adoption.
 
@@ -272,3 +283,6 @@ ROI 不能从象限直接推出。没有数据就保留未知，不编造提效�
 由 **[Cody Qin](https://github.com/CodyQin) / Q弟学了吗** 维护。本项目的原创材料采用 **[MIT](LICENSE)**；外部工具、文档和服务遵循各自许可。本框架是启发式辅助，不宣称首次提出这类分类，也不承诺商业结果。
 
 </details>
+
+
+技术路线数据源 / Route data source: `resources/solution-routes.json`。修改后运行 / After changes run `python scripts/build_routes.py`，它同时生成中英文技术地图和导航页 / generates both guides and the navigator. 提交前 / Before committing: `python scripts/build_routes.py --check`。不要在生成文件里单独维护另一份路线 / Do not maintain separate route lists in generated files.

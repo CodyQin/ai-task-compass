@@ -11,4 +11,5 @@ jobs:
         with:
           python-version: '3.12'
       - run: python scripts/build_prompt.py --check
+      - run: python scripts/build_routes.py --check
       - run: node scripts/check-business-math.js

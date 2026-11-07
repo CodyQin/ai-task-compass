@@ -23,3 +23,11 @@ Keep at most two relevant routes in a recommendation. Coze, FastGPT, Make and Za
 - [模型选择与评测 / Model selection](https://github.com/CodyQin/ai-task-compass/blob/main/docs/model-selection.en.md)
 - [起步方案 / Blueprints](https://github.com/CodyQin/ai-task-compass/blob/main/docs/solution-blueprints.en.md)
 - [业务测算器 / Business calculator](https://codyqin.github.io/ai-task-compass/business-calculator.html)
+
+
+## 技术、学习与交付 / Technical, learning and delivery map
+
+- [技术路线 / Technical routes](https://github.com/CodyQin/ai-task-compass/blob/main/docs/technical-routes.en.md)
+- [学习路线 / Learning paths](https://github.com/CodyQin/ai-task-compass/blob/main/docs/learning-paths.en.md)
+- [覆盖层级 / Coverage](https://github.com/CodyQin/ai-task-compass/blob/main/docs/coverage-and-scope.md)
+- [路线导航 / Navigator](https://codyqin.github.io/ai-task-compass/solution-navigator.html)

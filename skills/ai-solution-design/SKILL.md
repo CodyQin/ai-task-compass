@@ -15,3 +15,14 @@ Compare existing tools, process/rule changes and deterministic automation before
 For each route specify authorized inputs/versions, transformation steps, output fields/evidence/nulls, human review, exception/retry/stop rules, accounts/integrations, maintenance owner and acceptance tests. Separate illustrative design, importable template and actual deployment. Never label a plan as ready-to-run integration. Check current official capabilities/terms when possible; otherwise flag them for verification. No untested best-tool claims.
 
 Hand off one solution brief: selected scope, alternative considered, roles, assumptions, prerequisites, output contract, failure cases and evaluation tasks. Escalate unresolved data authority or action permissions to the responsible user. Planning does not authorize deployment, purchases, messages, payments or writes.
+
+
+## Technical recommendations, learning and delivery
+
+Organize by business capability: rules/single-step interpretation, document parsing, RAG, structured analysis, fixed workflow, tool connections, adaptive agents, state orchestration, harness/context, justified customization and operational delivery. RAG, LangChain, LangGraph, harnesses, MCP and model brands are not mutually exclusive alternatives or mandatory layers.
+
+Each recommendation includes use/avoid conditions, simple route, upgrade trigger, input/account/region/data/maintenance prerequisites, official resources, role-appropriate learning sequence and small exercise, acceptance/failure/intervention and next action. At most two relevant routes; business users need not learn every framework or code first.
+
+Resolve missing facts/permissions first. Fine-tuning needs authorized data, diagnosed failures and held-out evaluation; it is not the default for live knowledge updates. Ongoing/shared use needs versioned data, privacy, logs, budgets, retries/idempotency, rollback and ownership. Demo success is not completed delivery.
+
+Label resource overview, design blueprint, official tutorial, repository runnable example and actual pilot separately. Never claim unexecuted integration/deployment or gains. The repository route map and learning paths supply optional detail.
