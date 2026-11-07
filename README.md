@@ -12,6 +12,10 @@ Describe real work. Get useful questions, a task map, tool routes and a small pi
 No installation or API key required by this project. Bring your own AI chat.
 
 
+## 项目流程 · The planning flow
+
+<p align="center"><a href="assets/project-overview.png"><img src="assets/project-overview.png" alt="AI Task Compass workflow: business discovery, solution design, selection and evaluation, pilot review, with one shared brief. 从需求澄清到方案、评测和试点，同一份简报贯穿前后。" width="920"></a></p>
+
 ## 项目全貌 · The complete toolkit
 
 从业务问题到可验证方案：**澄清需求 → 设计流程 → 选择与评测 → 小范围试点 → 复盘**。步骤可跳过，四象限只服务方案设计。
@@ -22,6 +26,9 @@ No installation or API key required by this project. Bring your own AI chat.
 
 A planning toolkit for owners, PMs, founders and creators improving specific workflows. Use the full prompt in chat or load modules in a skill-capable tool. It supplies analysis and templates, not automatic business-data access or deployed systems.
 
+<details>
+<summary><strong>展开任务四象限 · Task map used during solution design</strong></summary>
+
 ## 一图理解 · The task map
 
 <p align="center">
@@ -30,6 +37,9 @@ A planning toolkit for owners, PMs, founders and creators improving specific wor
 
 **[保存高清 PNG](assets/task-quadrants.png)** · **[下载矢量 SVG](assets/task-quadrants.svg)**  
 Read the Chinese diagram above; English definitions are in the English guide below. Classify task steps, not whole businesses. A quadrant is not a value ranking.
+
+
+</details>
 
 ## 直接拿来用 · Your toolkit
 
