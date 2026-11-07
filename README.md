@@ -35,6 +35,20 @@ Read the Chinese diagram above; English definitions are in the English guide bel
 中英文完整说明均在本页，点击语言标题展开或收起。中文默认展开。  
 Both full guides stay on this page. Expand a language below; Chinese is open by default.
 
+
+## 从判断到业务方案 · From task map to business plan
+
+| 继续解决的问题 / Next question | 中文 | English |
+|---|---|---|
+| 为什么选这两个维度？ / Why these axes? | [理论与边界](docs/methodology.zh-CN.md) | [Methodology](docs/methodology.en.md) |
+| 老板和 PM 怎么推进？ / Owner and PM decisions | [业务手册](docs/business-playbook.zh-CN.md) | [Business playbook](docs/business-playbook.en.md) |
+| 哪种模型适合自己的任务？ / Which model fits? | [选择与评测](docs/model-selection.zh-CN.md) | [Model selection](docs/model-selection.en.md) |
+| 工具怎样组合成方案？ / How to assemble a route | [四条设计蓝图](docs/solution-blueprints.zh-CN.md) | [Four blueprints](docs/solution-blueprints.en.md) |
+| 怎样量化时间与钱？ / How to estimate time and money | [离线测算器 / Calculator](https://codyqin.github.io/ai-task-compass/business-calculator.html) | [评测记录 / Evaluation CSV](templates/model-evaluation.csv) |
+
+蓝图为设计示例，不是已部署模板；测算是假设下的结果，不是收益承诺。  
+Blueprints are illustrative designs, not deployed templates. Calculations are conditional estimates, not promised returns.
+
 <details>
 <summary><strong>English — click to expand / 点击展开英文</strong></summary>
 
@@ -110,7 +124,7 @@ The framework does not install software, deploy systems, contact clients, modify
 
 **Will it always ask many questions?** It should ask the next decision-relevant question, reuse context and allow unknowns. You can request a provisional plan with explicit assumptions.
 
-**Is the output proven?** v0.1 ships usable prompts, a skill and standalone pages. No controlled model benchmark or measured business gains are claimed. Review recommendations against your real work.
+**Is the output proven?** v0.2 ships usable prompts, a skill and standalone pages. No controlled model benchmark or measured business gains are claimed. Review recommendations against your real work.
 
 **What if a recommended tool is unavailable?** Tell the assistant your region, budget, existing accounts and deployment limits. Ask for accessible alternatives and recheck official terms before adoption.
 

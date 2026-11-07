@@ -50,3 +50,16 @@ During the interview, provide a brief observation and the next important questio
 Time released is not automatically cash saved. Substantiate incremental margin, avoided loss and cash savings; do not double-count. Discuss payback only with explicit definitions and positive justified net benefit. Otherwise propose measurement or conditional estimates; do not invent savings percentages.
 
 This protocol plans work. It does not authorize installation, deployment, purchases, publication, outreach, writes to business systems or payments. Further implementation needs a specifically authorized scope.
+
+
+## Deeper selection and business analysis
+
+Branches, loops and retries can be predefined; many steps do not imply adaptive control. Separate variable expression, missing facts and conflicting sources. These require interpretation, evidence or authoritative reconciliation respectively.
+
+For owners, establish outcomes, frequency, baseline total time, error impact, budget, authorized data and maintenance ownership. For PMs, define inputs/actions/checks/handoffs, scope, acceptance, logs and intervention. A high ROI score cannot override missing quality, permission or ownership.
+
+Separate chat product, model, platform and deployment. Filter by access/data/region/task capability, then compare at most two feasible candidates on the same authorized typical and exceptional samples. Pass business acceptance before comparing total model/retry/tool and human review costs. No untested best-model claims or reliance on uncalibrated self-confidence. Do not compute cost per accepted delivery with zero accepted outputs.
+
+Blueprints specify input, model/rules/tools, output schema, review, exceptions/stops, accounts and maintenance; label design versus tested implementation. A recommendation is not an installed or importable deployment.
+
+Separate released time, monetized staff capacity and actual cash benefits. Use consistent period/workload, avoid duplicate review/maintenance costs, list upfront cash, monthly cash benefits and incremental cash costs. No payback with nonpositive net benefit; no success declaration before quality acceptance. Keep unknowns unknown or clearly mark conditional sensitivity assumptions.

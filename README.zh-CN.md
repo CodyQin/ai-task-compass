@@ -105,3 +105,18 @@ ROI 不能从象限直接推出。没有数据就保留未知，不编造提效�
 通过 **[Issues](https://github.com/CodyQin/ai-task-compass/issues)** 反馈：脱敏任务、所用模型与日期、哪里判断不合适、你期待怎样改。不要上传客户原始资料或密钥。
 
 由 **[Cody Qin](https://github.com/CodyQin) / Q弟学了吗** 维护。本项目的原创材料采用 **[MIT](LICENSE)**；外部工具、文档和服务遵循各自许可。本框架是启发式辅助，不宣称首次提出这类分类，也不承诺商业结果。
+
+
+## 从判断到业务方案 · From task map to business plan
+
+| 继续解决的问题 / Next question | 中文 | English |
+|---|---|---|
+| 为什么选这两个维度？ / Why these axes? | [理论与边界](docs/methodology.zh-CN.md) | [Methodology](docs/methodology.en.md) |
+| 老板和 PM 怎么推进？ / Owner and PM decisions | [业务手册](docs/business-playbook.zh-CN.md) | [Business playbook](docs/business-playbook.en.md) |
+| 哪种模型适合自己的任务？ / Which model fits? | [选择与评测](docs/model-selection.zh-CN.md) | [Model selection](docs/model-selection.en.md) |
+| 工具怎样组合成方案？ / How to assemble a route | [四条设计蓝图](docs/solution-blueprints.zh-CN.md) | [Four blueprints](docs/solution-blueprints.en.md) |
+| 怎样量化时间与钱？ / How to estimate time and money | [离线测算器 / Calculator](https://codyqin.github.io/ai-task-compass/business-calculator.html) | [评测记录 / Evaluation CSV](templates/model-evaluation.csv) |
+
+蓝图为设计示例，不是已部署模板；测算是假设下的结果，不是收益承诺。  
+Blueprints are illustrative designs, not deployed templates. Calculations are conditional estimates, not promised returns.
+

@@ -53,6 +53,19 @@ Time released is not automatically cash saved. Substantiate incremental margin, 
 
 This protocol plans work. It does not authorize installation, deployment, purchases, publication, outreach, writes to business systems or payments. Further implementation needs a specifically authorized scope.
 
+
+## Deeper selection and business analysis
+
+Branches, loops and retries can be predefined; many steps do not imply adaptive control. Separate variable expression, missing facts and conflicting sources. These require interpretation, evidence or authoritative reconciliation respectively.
+
+For owners, establish outcomes, frequency, baseline total time, error impact, budget, authorized data and maintenance ownership. For PMs, define inputs/actions/checks/handoffs, scope, acceptance, logs and intervention. A high ROI score cannot override missing quality, permission or ownership.
+
+Separate chat product, model, platform and deployment. Filter by access/data/region/task capability, then compare at most two feasible candidates on the same authorized typical and exceptional samples. Pass business acceptance before comparing total model/retry/tool and human review costs. No untested best-model claims or reliance on uncalibrated self-confidence. Do not compute cost per accepted delivery with zero accepted outputs.
+
+Blueprints specify input, model/rules/tools, output schema, review, exceptions/stops, accounts and maintenance; label design versus tested implementation. A recommendation is not an installed or importable deployment.
+
+Separate released time, monetized staff capacity and actual cash benefits. Use consistent period/workload, avoid duplicate review/maintenance costs, list upfront cash, monthly cash benefits and incremental cash costs. No payback with nonpositive net benefit; no success declaration before quality acceptance. Keep unknowns unknown or clearly mark conditional sensitivity assumptions.
+
 ---
 
 # Tool routes, not a product ranking
@@ -71,3 +84,12 @@ Reference date: 2026-11-06 (Los Angeles). Recheck official capabilities, license
 Keep at most two relevant routes in a recommendation. Coze, FastGPT, Make and Zapier may fit particular environments; this project has not comprehensively verified or compared them. Third-party licenses are independent of this repository's MIT license.
 
 **Synthetic example:** For weekly feedback, start with anonymized text and agreed labels; ask for category, original evidence and uncertainties; review missed and incorrect labels. Consider a workflow only after repeated runs have acceptable quality. Add retrieval or access/version management when the sources justify it. No measured improvement is claimed.
+
+
+## 深入资料 / Further reading
+
+- [为什么是两个维度 / Methodology](https://github.com/CodyQin/ai-task-compass/blob/main/docs/methodology.en.md)
+- [老板与产品经理 / Business & PM playbook](https://github.com/CodyQin/ai-task-compass/blob/main/docs/business-playbook.en.md)
+- [模型选择与评测 / Model selection](https://github.com/CodyQin/ai-task-compass/blob/main/docs/model-selection.en.md)
+- [起步方案 / Blueprints](https://github.com/CodyQin/ai-task-compass/blob/main/docs/solution-blueprints.en.md)
+- [业务测算器 / Business calculator](https://codyqin.github.io/ai-task-compass/business-calculator.html)

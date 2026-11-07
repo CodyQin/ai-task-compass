@@ -22,3 +22,12 @@
 - 先试：现有文件读取助手按固定字段提取，人核对遗漏和误标。
 - 升级条件：多批重复运行、字段稳定且质量可接受，再用工作流组织读取、提取、检查与交接。
 - 数据来源复杂时，再评估检索、版本和权限；不能因为用了知识库就承诺不再出错。
+
+
+## 深入资料 / Further reading
+
+- [为什么是两个维度 / Methodology](https://github.com/CodyQin/ai-task-compass/blob/main/docs/methodology.zh-CN.md)
+- [老板与产品经理 / Business & PM playbook](https://github.com/CodyQin/ai-task-compass/blob/main/docs/business-playbook.zh-CN.md)
+- [模型选择与评测 / Model selection](https://github.com/CodyQin/ai-task-compass/blob/main/docs/model-selection.zh-CN.md)
+- [起步方案 / Blueprints](https://github.com/CodyQin/ai-task-compass/blob/main/docs/solution-blueprints.zh-CN.md)
+- [业务测算器 / Business calculator](https://codyqin.github.io/ai-task-compass/business-calculator.html)
