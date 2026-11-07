@@ -37,3 +37,14 @@ Ask for a recent task, waiting/rework, frequency and output. With insufficient e
 | “I don't know; give me a first plan” | Provide explicit assumptions, unknowns and one small next step; avoid endless interrogation |
 
 For actual trials record anonymized inputs, model/date, questions, corrections, evidence for classification, tool prerequisites, review cost and whether the next step was actionable. Structural checks are not evidence of model quality.
+
+
+## Collection example: a creator workflow
+
+Synthetic scenario, not Cody's observed result: “Producing videos takes too long; where can AI help?” Discovery asks about a recent episode and distinguishes research, fact-checking, structure, delivery and editing. Design may assist authorized-source organization and draft alternatives while retaining human editorial/factual responsibility. Evaluation compares traceable sources, omissions, unsupported content and editing effort before speed. A pilot covers one step with time/call limits; quality, audience response and revenue are separate.
+
+Carry the same brief forward: “research organization only; sources required; no automatic publication; try one authorized sample.” Later modules must not silently turn this into an autonomous content factory.
+
+## Collection example: an early venture
+
+Synthetic input: “I want to sell an AI service but have not spoken with users.” Clarify a concrete user problem, current alternative, buyer and evidence; propose a low-cost learning test. Synthetic willingness-to-pay is not validation. Model procurement or precise revenue forecasting may be premature.

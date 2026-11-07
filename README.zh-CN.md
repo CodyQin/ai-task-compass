@@ -120,3 +120,15 @@ ROI 不能从象限直接推出。没有数据就保留未知，不编造提效�
 蓝图为设计示例，不是已部署模板；测算是假设下的结果，不是收益承诺。  
 Blueprints are illustrative designs, not deployed templates. Calculations are conditional estimates, not promised returns.
 
+
+
+## 项目全貌 · The complete toolkit
+
+从业务问题到可验证方案：**澄清需求 → 设计流程 → 选择与评测 → 小范围试点 → 复盘**。步骤可跳过，四象限只服务方案设计。
+
+**[五个 Skill 怎么用 / Skill collection](docs/skill-collection.zh-CN.md)** · **[English guide](docs/skill-collection.en.md)** · **[项目简报 / Shared brief](templates/PROJECT-BRIEF.md)** · **[为什么这样设计](docs/design-rationale.zh-CN.md)** · **[Design rationale](docs/design-rationale.en.md)**
+
+适合有具体流程要改善的老板、产品经理、创业者与自媒体；不要求先懂技术。现有聊天复制完整提示词即可，支持 Skills 的工具可独立安装模块。
+
+A planning toolkit for owners, PMs, founders and creators improving specific workflows. Use the full prompt in chat or load modules in a skill-capable tool. It supplies analysis and templates, not automatic business-data access or deployed systems.
+

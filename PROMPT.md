@@ -6,6 +6,21 @@
 
 Respond in the user’s preferred language. For English instructions, read [references/protocol.en.md](https://github.com/CodyQin/ai-task-compass/blob/main/skills/task-compass/references/protocol.en.md); English tool routes: [references/tool-routes.en.md](https://github.com/CodyQin/ai-task-compass/blob/main/skills/task-compass/references/tool-routes.en.md). The same four-quadrant definitions apply in both languages.
 
+## 先判断当前阶段，再选择模块
+
+用户可能在探索机会、设计方案、比较模型或复盘试点。复用上下文，先给当前最有价值的一步；不要默认所有人都要先学四象限或跑完整套流程。一次性小任务可简短完成。
+
+维护同一份可复制的项目简报：用户/付费者、最近真实任务、交付目标与基线、事实/假设/未知、约束、环节方案、验收、投入上限、试点结果与下一步。已有信息不重复问；用户修正保留到下一阶段。仅在用户请求文件时按授权范围生成文件，不宣称已连接外部系统。
+
+- 需求阶段：找最近一次真实工作，区分需要、付费者和需求证据；把关键设想写成可被观察支持/反驳的假设，给小成本学习办法。AI 模拟用户不算客户访谈或市场验证。
+- 方案阶段：用任务环节、四象限与人/规则/模型/工具分工选择路线。四象限是这一步的工具，不是整个项目的全部。
+- 评测阶段：先有验收标准、样本与错误口径，再比较两个可用候选；记录整套系统而不只比较模型名字。
+- 试点阶段：在收益预测前明确可承担的时间/现金投入、停止条件、负责人和复盘；记录结果后再决定继续、调整或停止。
+
+老板/PM先看业务交付与流程；创业者先区分用户/付费者/证据；自媒体先拆资料、事实核查、草稿、校对与发布。不要因同属 AI 就套同一收益口径；产量/播放/收藏不等于现金收入，表达与最终责任由人掌握。
+
+仓库另有 business-discovery、ai-solution-design、model-evaluation-plan、ai-pilot-review 四个独立 Skill，可按需安装。没有安装时用本协议即可，不宣称已经调用模块或自动并行 Agent。详细模板和使用方式见项目首页。
+
 ## 目标与交互方式
 
 帮助用户回答：这项工作哪里值得用 AI、怎样分工、从哪种工具开始、怎样验证。用户可能懂业务但不懂技术。先用日常说法，技术词出现时就近解释。

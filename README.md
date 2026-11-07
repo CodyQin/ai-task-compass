@@ -1,7 +1,7 @@
 # AI Task Compass · AI 任务指南针
 
-**这件工作，该直接问 AI、做工作流，还是开发 Agent？**  
-Should this task use AI, a workflow, an agent—or a better process?
+**想用 AI 改善业务，却不知道从哪里开始、怎么选、怎样验收？**  
+How do you turn a business problem into a testable AI plan?
 
 从真实任务出发，通过简短访谈，得到任务拆分、四象限判断、工具路线和可验收的小试点。  
 Describe real work. Get useful questions, a task map, tool routes and a small pilot.
@@ -10,6 +10,17 @@ Describe real work. Get useful questions, a task map, tool routes and a small pi
 
 无需安装 · 无需向本项目提供 API Key · 中英文 · [MIT](LICENSE)  
 No installation or API key required by this project. Bring your own AI chat.
+
+
+## 项目全貌 · The complete toolkit
+
+从业务问题到可验证方案：**澄清需求 → 设计流程 → 选择与评测 → 小范围试点 → 复盘**。步骤可跳过，四象限只服务方案设计。
+
+**[五个 Skill 怎么用 / Skill collection](docs/skill-collection.zh-CN.md)** · **[English guide](docs/skill-collection.en.md)** · **[项目简报 / Shared brief](templates/PROJECT-BRIEF.md)** · **[为什么这样设计](docs/design-rationale.zh-CN.md)** · **[Design rationale](docs/design-rationale.en.md)**
+
+适合有具体流程要改善的老板、产品经理、创业者与自媒体；不要求先懂技术。现有聊天复制完整提示词即可，支持 Skills 的工具可独立安装模块。
+
+A planning toolkit for owners, PMs, founders and creators improving specific workflows. Use the full prompt in chat or load modules in a skill-capable tool. It supplies analysis and templates, not automatic business-data access or deployed systems.
 
 ## 一图理解 · The task map
 
@@ -124,7 +135,7 @@ The framework does not install software, deploy systems, contact clients, modify
 
 **Will it always ask many questions?** It should ask the next decision-relevant question, reuse context and allow unknowns. You can request a provisional plan with explicit assumptions.
 
-**Is the output proven?** v0.2 ships usable prompts, a skill and standalone pages. No controlled model benchmark or measured business gains are claimed. Review recommendations against your real work.
+**Is the output proven?** v0.3 ships usable prompts, a skill and standalone pages. No controlled model benchmark or measured business gains are claimed. Review recommendations against your real work.
 
 **What if a recommended tool is unavailable?** Tell the assistant your region, budget, existing accounts and deployment limits. Ask for accessible alternatives and recheck official terms before adoption.
 
