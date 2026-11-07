@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-label="AI Task Compass: from a real business problem to a testable plan">
+<rect width="1600" height="900" fill="#f7f6f0"/>
+<text x="75" y="45" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="23" font-weight="700" fill="#3e7b65">AI TASK COMPASS</text>
+<text x="1190" y="45" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="23" font-weight="400" fill="#687368">Q弟学了吗 · 开源工具箱</text>
+<text x="75" y="110" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="57" font-weight="700" fill="#233027">把业务问题，变成可验证的 AI 方案</text>
+<text x="80" y="200" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="29" font-weight="400" fill="#687368">Discovery → Design → Evaluate → Pilot</text>
+<rect x="80" y="274" width="1440" height="39" rx="19" fill="#e9eee5"/>
+<text x="104" y="280" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="24" font-weight="400" fill="#3e7b65">从最近一次真实任务开始：收到什么？要交付什么？卡在哪里？</text>
+<polyline points="331,440 529,440" fill="none" stroke="#b5c4b2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="517,431 529,440 517,449" fill="none" stroke="#b5c4b2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="245" cy="440" r="72" fill="#e7eee5"/>
+<circle cx="240" cy="432" r="22" fill="none" stroke="#3e7b65" stroke-width="4"/>
+<polyline points="257,449 279,471" fill="none" stroke="#3e7b65" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="153" y="540" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="39" font-weight="700" fill="#3e7b65">需求澄清</text>
+<text x="126" y="600" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="26" font-weight="400" fill="#687368">先弄清问题与证据</text>
+<polyline points="701,440 899,440" fill="none" stroke="#b5c4b2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="887,431 899,440 887,449" fill="none" stroke="#b5c4b2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="615" cy="440" r="72" fill="#f3e5d7"/>
+<rect x="592" y="406" width="46" height="24" rx="5" fill="#f7f6f0" stroke="#ba6839" stroke-width="2"/>
+<polyline points="615,430 615,445 586,445 586,457" fill="none" stroke="#ba6839" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="615,445 644,445 644,457" fill="none" stroke="#ba6839" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="571" y="457" width="29" height="22" rx="5" fill="#f7f6f0" stroke="#ba6839" stroke-width="2"/>
+<rect x="630" y="457" width="29" height="22" rx="5" fill="#f7f6f0" stroke="#ba6839" stroke-width="2"/>
+<text x="523" y="540" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="39" font-weight="700" fill="#ba6839">方案设计</text>
+<text x="496" y="600" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="26" font-weight="400" fill="#687368">分任务、能力与责任</text>
+<polyline points="1071,440 1269,440" fill="none" stroke="#b5c4b2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1257,431 1269,440 1257,449" fill="none" stroke="#b5c4b2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="985" cy="440" r="72" fill="#e7eee5"/>
+<rect x="957" y="406" width="55" height="67" rx="6" fill="#f7f6f0" stroke="#3e7b65" stroke-width="2"/>
+<polyline points="969,438 981,450 1001,426" fill="none" stroke="#3e7b65" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="893" y="540" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="39" font-weight="700" fill="#3e7b65">选择与评测</text>
+<text x="866" y="600" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="26" font-weight="400" fill="#687368">先定验收，再比方案</text>
+<circle cx="1355" cy="440" r="72" fill="#f3e5d7"/>
+<polyline points="1325,462 1325,417 1379,417 1379,458 1345,458" fill="none" stroke="#ba6839" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1335,447 1345,458 1335,468" fill="none" stroke="#ba6839" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1263" y="540" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="39" font-weight="700" fill="#ba6839">试点与复盘</text>
+<text x="1236" y="600" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="26" font-weight="400" fill="#687368">控制投入，检查价值</text>
+<polyline points="245,651 245,675 1355,675 1355,651" fill="none" stroke="#b5c4b2" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="485" y="655" width="630" height="49" rx="14" fill="#f7f6f0"/>
+<text x="525" y="664" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="24" font-weight="400" fill="#233027">同一份项目简报，保留前后的事实与修正</text>
+<rect x="80" y="743" width="345" height="78" rx="15" fill="#fffef9" stroke="#dce3d7" stroke-width="2"/>
+<rect x="101" y="753" width="43" height="58" rx="5" fill="#f7f6f0" stroke="#3e7b65" stroke-width="2"/>
+<polyline points="112,769 133,769" fill="none" stroke="#3e7b65" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="112,782 133,782" fill="none" stroke="#3e7b65" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="112,795 133,795" fill="none" stroke="#3e7b65" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="162" y="765" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" font-weight="700" fill="#233027">项目简报</text>
+<rect x="445" y="743" width="345" height="78" rx="15" fill="#fffef9" stroke="#dce3d7" stroke-width="2"/>
+<rect x="466" y="753" width="43" height="58" rx="5" fill="#f7f6f0" stroke="#3e7b65" stroke-width="2"/>
+<polyline points="477,769 498,769" fill="none" stroke="#3e7b65" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="477,782 498,782" fill="none" stroke="#3e7b65" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="477,795 498,795" fill="none" stroke="#3e7b65" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="527" y="765" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" font-weight="700" fill="#233027">技术与学习路线</text>
+<rect x="810" y="743" width="345" height="78" rx="15" fill="#fffef9" stroke="#dce3d7" stroke-width="2"/>
+<rect x="831" y="753" width="43" height="58" rx="5" fill="#f7f6f0" stroke="#3e7b65" stroke-width="2"/>
+<polyline points="842,769 863,769" fill="none" stroke="#3e7b65" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="842,782 863,782" fill="none" stroke="#3e7b65" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="842,795 863,795" fill="none" stroke="#3e7b65" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="892" y="765" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" font-weight="700" fill="#233027">验收与评测记录</text>
+<rect x="1175" y="743" width="345" height="78" rx="15" fill="#fffef9" stroke="#dce3d7" stroke-width="2"/>
+<rect x="1196" y="753" width="43" height="58" rx="5" fill="#f7f6f0" stroke="#3e7b65" stroke-width="2"/>
+<polyline points="1207,769 1228,769" fill="none" stroke="#3e7b65" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1207,782 1228,782" fill="none" stroke="#3e7b65" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1207,795 1228,795" fill="none" stroke="#3e7b65" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1257" y="765" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="25" font-weight="700" fill="#233027">试点与交付检查</text>
+<text x="80" y="853" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="21" font-weight="400" fill="#687368">5 个 Skill · 12 条技术路线 · 中英文 · MIT</text>
+<text x="1060" y="853" dominant-baseline="text-before-edge" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif" font-size="21" font-weight="400" fill="#687368">按需使用，不必先学完所有框架</text>
+</svg>
