@@ -1,4 +1,4 @@
-[English](README.md) · **简体中文** · [在线开始](https://codyqin.github.io/ai-task-compass/)
+[返回项目首页 · 中英文说明](https://github.com/CodyQin/ai-task-compass) · [在线开始](https://codyqin.github.io/ai-task-compass/)
 
 # AI Task Compass · AI 任务指南针
 
