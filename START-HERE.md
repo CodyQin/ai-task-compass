@@ -18,6 +18,7 @@
 
 | 资料 | 中文 / Chinese | English |
 |---|---|---|
+| 一行安装与启动 / Install and start | [中文](docs/install-and-start.zh-CN.md) | [English](docs/install-and-start.en.md) |
 | 完整提示词 / Full prompt | [PROMPT.md](PROMPT.md) | [PROMPT.en.md](PROMPT.en.md) |
 | 合集使用说明 / Collection guide | [中文](docs/skill-collection.zh-CN.md) | [English](docs/skill-collection.en.md) |
 | 统一入口 / Integrated entry | [task-compass](skills/task-compass/SKILL.md) | Same skill; responds in your language |

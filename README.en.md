@@ -8,6 +8,9 @@ A practical, open-source conversation framework that helps you describe real wor
 
 No account, API key or installation is required by this project. Bring your own AI chat; that provider may charge for usage.
 
+
+**Already using Codex / Claude Code?** [Install once, start with one sentence](docs/install-and-start.en.md).
+
 ## Start in a minute
 
 1. Open the **[English page](https://codyqin.github.io/ai-task-compass/en.html)** or **[中文页面](https://codyqin.github.io/ai-task-compass/)**.

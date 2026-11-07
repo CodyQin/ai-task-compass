@@ -2,6 +2,8 @@
 
 [首页](../README.md) · [English](skill-collection.en.md) · [项目简报模板](../templates/PROJECT-BRIEF.md)
 
+**快速安装：** [一行安装，装好后输入一句话开始](install-and-start.zh-CN.md)。
+
 这是业务与 AI 项目规划工具箱，覆盖从问题澄清到试点复盘。它不自动完成企业尽调，也不替用户部署业务系统或保证创业成功。
 
 | 入口/模块 | 什么时候用 | 实际输出 |

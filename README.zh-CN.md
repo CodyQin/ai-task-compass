@@ -6,6 +6,9 @@
 
 适合有真实工作要改善、却不确定该直接问 AI、做知识库、搭工作流还是开发 Agent 的人。懂业务但不懂技术，也可以从一句日常描述开始。
 
+
+**已有 Codex / Claude Code？** [一行安装，一句话启动](docs/install-and-start.zh-CN.md)。
+
 ## 30 秒开始
 
 1. **[打开中文入口](https://codyqin.github.io/ai-task-compass/)**，写下最近一次想改善的工作。

@@ -10,6 +10,26 @@ Turn a business problem into a testable AI plan.
 面向有具体流程要改善的老板、产品经理、创业者与自媒体。一个统一入口、四个独立模块，按需要选择步骤；普通聊天复制提示词即可开始。  
 For owners, PMs, founders and creators improving real workflows. One entry point and four independent modules; use the full prompt in your AI chat.
 
+## 一行安装，一句话开始 · Install once, then ask
+
+已在用 Codex / Claude Code？在终端安装统一入口（需要 Node.js 22.20+、Git 和可用的 AI 工具）：  
+Already using a skill-capable tool? Install the integrated entry from your terminal:
+
+```sh
+npx skills add CodyQin/ai-task-compass --skill task-compass -g
+```
+
+按提示选工具。之后在 **AI 对话里**输入，再直接说你想做什么：  
+Select your tool, then invoke it **inside your AI conversation** and describe your work:
+
+| 工具 / Tool | 启动示例 / Start |
+|---|---|
+| Codex | `$task-compass 帮我梳理这个业务，判断哪里值得用 AI。` |
+| Claude Code | `/task-compass 帮我梳理这个业务，判断哪里值得用 AI。` |
+
+[安装、更新与排错 · 中文](docs/install-and-start.zh-CN.md) · [English setup](docs/install-and-start.en.md)  
+不想安装？继续使用[网页入口](https://codyqin.github.io/ai-task-compass/)复制完整消息到常用 AI。 / Prefer no setup? Use the [web starter](https://codyqin.github.io/ai-task-compass/en.html).
+
 ## 你想先做什么？ · Pick an entry
 
 | 现在的目标 / Your goal | 直接进入 / Open |

@@ -2,6 +2,8 @@
 
 [Overview](../README.md) · [中文](skill-collection.zh-CN.md) · [Shared brief](../templates/PROJECT-BRIEF.md)
 
+**Quick setup:** [Install once, start with one sentence](install-and-start.en.md).
+
 A business and AI-project planning toolkit, from discovery to pilot review. It is not automated due diligence, a deployed business system or a guarantee of startup success.
 
 | Entry/module | Use when | Deliverable |
