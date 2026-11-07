@@ -1,6 +1,6 @@
 # Business owner and product manager playbook
 
-[Overview](../README.md) · [中文](business-playbook.zh-CN.md) · [Worksheet](../WORKSHEET.md) · [Calculator](../business-calculator.html)
+[Overview](../README.md) · [中文](business-playbook.zh-CN.md) · [Worksheet](../WORKSHEET.md) · [Calculator](https://codyqin.github.io/ai-task-compass/business-calculator.html)
 
 The project supplies planning protocols, references, design blueprints and pilot tools, not an already integrated business platform.
 
@@ -31,7 +31,7 @@ Review date and continue/revise/stop conditions:
 
 Measure quality (omissions, unsupported facts, severity, editing), total time (preparation, execution, review, rework) and cash separately. Count model calls, token usage, retries, retrieval and human intervention. One chat's token bill is not full operating cost.
 
-Use the [calculator](../business-calculator.html) for conditional estimates in one consistent currency. It is local, with no model calls or task upload. ROI is not a promise. Quality failure cannot be offset merely by faster output.
+Use the [calculator](https://codyqin.github.io/ai-task-compass/business-calculator.html) for conditional estimates in one consistent currency. It is local, with no model calls or task upload. ROI is not a promise. Quality failure cannot be offset merely by faster output.
 
 Start with authorized samples and human observation. Expand only with acceptance, logs, intervention and ownership. Re-run retained cases when prompts, models or data change. A successful demo is not evidence of production reliability.
 

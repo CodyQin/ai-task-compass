@@ -1,6 +1,6 @@
 # 老板与产品经理：从业务问题走到试点
 
-[首页](../README.md) · [English](business-playbook.en.md) · [工作表](../WORKSHEET.md) · [本地业务测算器](../business-calculator.html)
+[首页](../README.md) · [English](business-playbook.en.md) · [工作表](../WORKSHEET.md) · [本地业务测算器](https://codyqin.github.io/ai-task-compass/business-calculator.html)
 
 本项目交付分析协议、选型参考、设计蓝图和试点工具，不是已经接好你业务系统的全自动平台。先确定值得解决的问题，再选技术。
 
@@ -51,7 +51,7 @@
 - 量化前先测：每次模型调用次数、输入输出 token、重试、检索、人工接管；不能只用一次对话成本代表整套业务成本。
 - ROI 和回本期是条件测算，非承诺。质量不达标时不能凭省时就宣告成功。
 
-打开 [测算器](../business-calculator.html) 输入自己的假设；页面不调用模型、不上传数据。货币单位由你统一，不能混合不同币种。高风险项目还需相应专业评估，本工具不代替审批。
+打开 [测算器](https://codyqin.github.io/ai-task-compass/business-calculator.html) 输入自己的假设；页面不调用模型、不上传数据。货币单位由你统一，不能混合不同币种。高风险项目还需相应专业评估，本工具不代替审批。
 
 ## 6. 从试点到上线
 
