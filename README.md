@@ -1,12 +1,39 @@
 # AI Task Compass · AI 任务指南针
 
-判断一项工作该用 AI、自动化、Agent，还是先改善流程。  
-Decide how to improve real work—with AI, automation, agents, or a better process.
+**这件工作，该直接问 AI、做工作流，还是开发 Agent？**  
+Should this task use AI, a workflow, an agent—or a better process?
+
+从真实任务出发，通过简短访谈，得到任务拆分、四象限判断、工具路线和可验收的小试点。  
+Describe real work. Get useful questions, a task map, tool routes and a small pilot.
 
 **[立即使用 · 中文](https://codyqin.github.io/ai-task-compass/)** · **[Try it · English](https://codyqin.github.io/ai-task-compass/en.html)** · **[下载 / Download](https://github.com/CodyQin/ai-task-compass/releases/latest)**
 
-中英文说明均在本页。点击下方语言标题展开或收起，无需离开仓库首页。  
-Both guides are on this page. Expand or collapse a language below without leaving the repository overview.
+无需安装 · 无需向本项目提供 API Key · 中英文 · [MIT](LICENSE)  
+No installation or API key required by this project. Bring your own AI chat.
+
+## 一图理解 · The task map
+
+<p align="center">
+  <a href="assets/task-quadrants.png"><img src="assets/task-quadrants.png" alt="任务四象限：横轴向右信息不确定程度增加，纵轴向上路径越需要动态调整；左下固定执行、右下理解整理、左上动态分析、右上探索验证。Task quadrants: fixed execution, interpretation, adaptive analysis, exploration." width="820"></a>
+</p>
+
+**[保存高清 PNG](assets/task-quadrants.png)** · **[下载矢量 SVG](assets/task-quadrants.svg)**  
+Read the Chinese diagram above; English definitions are in the English guide below. Classify task steps, not whole businesses. A quadrant is not a value ranking.
+
+## 直接拿来用 · Your toolkit
+
+| 你现在想做什么 / Your goal | 入口 / Resource |
+|---|---|
+| 不安装，马上开始 / Start without setup | [中文网页](https://codyqin.github.io/ai-task-compass/) · [English page](https://codyqin.github.io/ai-task-compass/en.html) |
+| 把完整提示词交给 AI / Copy the full protocol | [中文提示词](PROMPT.md) · [English prompt](PROMPT.en.md) |
+| 在支持技能的 Agent 中使用 / Load an Agent Skill | [task-compass Skill](skills/task-compass/) |
+| 对照实际场景理解 / Learn from worked examples | [中文场景](examples.md) · [English examples](examples.en.md) |
+| 看工具候选和使用前提 / Compare tool routes | [中文路线](skills/task-compass/references/tool-routes.md) · [English routes](skills/task-compass/references/tool-routes.en.md) |
+| 把建议变成自己的试点 / Plan your own pilot | [中英文任务工作表 / Bilingual worksheet](WORKSHEET.md) |
+| 离线保存整套资料 / Keep the full kit offline | [最新下载包 / Latest release](https://github.com/CodyQin/ai-task-compass/releases/latest) |
+
+中英文完整说明均在本页，点击语言标题展开或收起。中文默认展开。  
+Both full guides stay on this page. Expand a language below; Chinese is open by default.
 
 <details>
 <summary><strong>English — click to expand / 点击展开英文</strong></summary>
@@ -61,6 +88,10 @@ Copy the complete [`skills/task-compass/`](skills/task-compass/) folder into the
 
 Directory conventions vary; this is not a universal installer. If your tool does not support skills, use the standalone prompt instead. The skill includes Chinese and English guidance and should respond in your requested language.
 
+## Plan your first pilot
+
+Use the **[bilingual task & pilot worksheet](WORKSHEET.md)** to keep facts, assumptions, responsibilities, acceptance measures and costs in one place. Fill only what you know; let the interview identify the next useful gap.
+
 ## Examples
 
 See **[worked examples](examples.en.md)** / **[中文场景](examples.md)**: reports, feedback, knowledge bases, adaptive analysis, unclear goals and career work. Examples are synthetic illustrations, not measured model runs or customer case studies.
@@ -101,113 +132,108 @@ Maintained by **[Cody Qin](https://github.com/CodyQin) / Q弟学了吗**. Contri
 <details open>
 <summary><strong>简体中文 — 默认展开 / 点击展开或收起</strong></summary>
 
-**先聊清任务，再判断怎样用 AI。**
+**从“我想用 AI”走到“这一步先这样做”。**
 
-给懂业务、想改善工作，却不确定该用普通自动化、AI 辅助、知识库还是 Agent 的人。
+适合有真实工作要改善、却不确定该直接问 AI、做知识库、搭工作流还是开发 Agent 的人。懂业务但不懂技术，也可以从一句日常描述开始。
 
-你描述一项真实工作，AI 先和你交流，拆出任务环节，再给出任务四象限判断、方法与工具候选，以及一个可以验收的小试点。
+## 30 秒开始
 
-这是提示词与 Skill 形式的决策辅助原型，不是已验证的企业咨询服务，也不保证自动分类、推荐或 ROI 正确。当前无需安装软件、无需额外 API Key；使用你自己的 AI 产品，其可用性、费用和数据政策由该产品决定。
+1. **[打开中文入口](https://codyqin.github.io/ai-task-compass/)**，写下最近一次想改善的工作。
+2. 点击“生成开始消息”，复制到你常用的 AI 对话。
+3. 回答最关键的问题，核对任务拆分，再选择一个环节试用。
 
-## 立即开始
+不想用网页？打开 **[完整中文提示词](PROMPT.md)**，点击 **Raw**，复制全文到 AI，再补上你的任务。英文请用 [PROMPT.en.md](PROMPT.en.md)。普通聊天使用不需要安装 Skill。
 
-有本地文件时，可直接打开 [index.html](index.html)：写一句任务，生成完整消息，再复制到自己的 AI 对话。页面离线可用，不会自己分析任务、调用模型或上传输入。也可以按下面的纯文字方式使用。
+你可以直接这样描述：
 
-1. 打开 [PROMPT.md](PROMPT.md)，复制全文到你常用的 AI 对话。
-2. 接着说一句你真实想做的工作，例如：“我想把客户反馈整理成每周报告，但不知道从哪一步用 AI。”
-3. 回答 AI 最关键的问题；也可以说“我不知道”或“先给暂定方案”。
-4. 核对它整理的事实与任务拆分，再从最小的一步试起。
+> 我每周要整理几十条客户反馈，目前手动打标签、统计、写总结。我想减少漏项，不知道应该直接用 AI 还是做工作流。请先问我一个最影响判断的问题，用中文回答。
 
-别先准备一整套商业计划。拿最近一次发生的工作来描述，通常更容易开始。尽量用脱敏样本，不必提供客户姓名、联系方式、账户或完整公司机密。
+本项目无需注册、无需提供 API Key；你使用的 AI 产品可能收费。网页只生成完整消息，实际访谈在所选 AI 中进行。
 
-## AI 会怎样和你交流
+## 最后能拿到什么
 
-下面是说明交互方式的**合成示例，并非模型实测记录**：
+| 你关心的问题 | 框架引导 AI 交付的内容 |
+|---|---|
+| 这件事究竟要解决什么？ | 目标、输入、输出和限制；事实与假设分开 |
+| 什么时候用 AI？ | 按具体环节判断象限，允许混合或暂不可判定 |
+| AI 应该负责多少？ | 人、规则、模型、检索和工具各自的职责 |
+| 先用哪个工具？ | 简单起步路线；需要时再给工程化升级路线 |
+| 怎样知道有没有用？ | 小范围试点、质量标准、人工检查和停止条件 |
+| 到底值不值得做？ | 准备、调用、维护、检查、返工成本，以及待测收益 |
 
-> 你：我想做一个企业知识库。
->
-> AI：最近一次有人来找你问信息，具体问了什么？你当时去哪里找，最后怎么回答的？
->
-> 你：销售经常问交付政策，几个文档版本不一致，我们也没决定哪个是准的。
->
-> AI：要先确定政策的负责人和有效版本。你希望先减少查找时间，还是减少回答错误？现有哪一份材料可以由负责人确认？
+## 四象限怎么读
 
-它应允许得出“先整理资料”“先明确管理规则”“普通自动化足够”的结论，而不是为了 AI 而 AI。
-
-## 四类任务
-
-横轴：执行所需的信息与条件的确定程度。纵轴：处理路径能否预先固定。
+横轴向右：信息越不确定，越需要补充或理解。纵轴向上：做法越需要根据中间结果调整。
 
 | | 信息清楚、稳定 | 信息多变、需要理解或补充 |
 |---|---|---|
-| 路径需要动态调整 | **Q3 动态分析**：按中间结果继续计算、查询或核实 | **Q4 探索验证**：先调查、澄清和小实验，再逐步减少不确定性 |
-| 步骤可提前固定 | **Q1 固定执行**：规则、公式、脚本、普通自动化优先 | **Q2 理解整理**：固定流程中加入文本理解、提取、检索等能力 |
+| **路径动态调整** | **Q3 动态分析**：按结果继续计算、查询、核实 | **Q4 探索验证**：澄清、调查、收集证据、小实验 |
+| **步骤可提前固定** | **Q1 固定执行**：现成系统、公式、脚本、普通自动化 | **Q2 理解整理**：在固定流程里加入理解、提取、检索 |
 
-分类对象是**具体环节**。一项工作可以跨多个象限；缺少信息时可以暂不分类。位置不是复杂度排名，更不是项目价值排名。
+分类对象是**任务环节**，整项工作可以跨象限。同一环节也会随资料与流程完善而迁移。编号是项目标签，不是数学坐标系的标准象限编号；位置不代表高级程度、风险或 ROI。
 
-## 最终得到什么
+## 一个任务如何变成方案
 
-- 你确认过的目标、输入、交付与限制，未确认条件单列。
-- 分环节的象限判断、理由、可能改变判断的条件。
-- 人、规则、AI、工具分别负责什么。
-- 一条简单起步路线；需要时再给工程化路线，不强迫使用新平台。
-- 工具类别和少量候选、官方资料、接入与维护要求。
-- 一个有范围、验收标准、人工确认点和停止条件的小试点。
-- 成本与收益的待测项；无数据时保留未知，不编造提效比例。
+**合成教学示例，非客户项目或模型实测：整理每周反馈报告。**
+
+| 环节 | 暂定判断 | 起步做法 | 怎么检查 |
+|---|---|---|---|
+| 读反馈、提取问题和原文证据 | 标签与流程确定时，主要是 Q2 | 先用已有文件读取助手，按固定字段输出 | 漏项、误标、没有原文支持的结论 |
+| 统计已确认的标签 | 规则确定时，主要是 Q1 | 电子表格或小脚本 | 重复项、缺失值、总数是否一致 |
+| 追查某类问题为何突然增加 | 资料较清楚、下一步随发现调整时，可能是 Q3 | 人带着工具分步查证 | 区分相关性、假设与因果证据 |
+
+如果连报告要给谁看、标签怎么定义都没确定，就先澄清，不急着给整项工作贴标签。先拿少量脱敏样本，由人核对质量和总耗时；重复运行值得做时，再考虑工作流。
+
+更多场景见 **[案例与判断边界](examples.md)**。开始自己的项目时，可直接复制 **[任务与试点工作表](WORKSHEET.md)**。
+
+## 工具怎么选
+
+| 需求 | 先尝试 | 升级前要问什么 |
+|---|---|---|
+| 已知规则、重复计算 | 现有表格功能或脚本 | 异常怎么处理？结果怎么核对？ |
+| 多系统触发、流转、通知 | 现有系统自动化；必要时比较工作流工具 | 接口、权限、失败恢复与维护人是否明确？ |
+| 阅读、提取、归类资料 | 兼容文件格式的助手，加固定输出字段 | 解析、漏项、来源证据是否合格？ |
+| 反复查大量资料 | 小范围检索试点，再评估知识库 | 有效版本、访问权限、答案引用怎么管理？ |
+| 根据结果连续选择工具 | 先观察一次分步分析，需要时再比较 Agent 编排 | 状态、人工接管、重试与评估怎么做？ |
+
+具体候选、前提和官方资料见 **[工具路线地图](skills/task-compass/references/tool-routes.md)**。工具不是象限的固定答案；选型前核对当前许可、费用、地区可用性与数据处理条件。
 
 ## 作为 Skill 使用
 
-[skills/task-compass/SKILL.md](skills/task-compass/SKILL.md) 是可分发的 Skill，附带工具选型参考。
+下载仓库，把 **[skills/task-compass/](skills/task-compass/)** 整个文件夹放进你使用的 Agent 支持的技能目录，按该工具说明加载，然后说：
 
-将整个 `skills/task-compass/` 文件夹放进你使用的 Agent 支持的技能目录；安装位置和调用方式按该 Agent 的说明操作。支持显式技能调用的环境，可尝试要求“使用 task-compass，帮我拆解这个任务”。普通聊天产品直接用 PROMPT.md，不需要安装 Skill。
+> 使用 task-compass 帮我分析这件工作，用中文回答。先问最影响判断的一个问题。
 
-本项目只分析和规划，不会自行安装平台、部署系统、发送客户消息、写入业务数据或产生 API 支出。
+不同工具的安装位置不同。普通聊天产品直接使用 PROMPT.md 即可，不需要安装，也不要求会写代码。本框架只做分析和规划，不会自行部署系统、发送客户消息、写入业务数据或产生 API 支出。
 
-## 示例与边界
+## 做试点时，先确认这五件事
 
-见 [examples.md](examples.md)：包括报表、反馈、资料库、研究、求职和模糊的团队提效需求。这些是测试输入与期望行为，不是成功客户案例。
+1. **样本：**资料已获授权并脱敏，包含典型情况和容易出错的情况。
+2. **质量：**什么算可接受，谁负责核对？先提出指标，再由使用者确认阈值。
+3. **时间：**记录原做法与新做法的总耗时，包括准备、检查和返工。
+4. **接管：**哪些输出必须人工确认，遇到什么情况停止自动处理？
+5. **价值：**节省的时间能否被重新利用？释放工时、现金节省和新增收益分开记录。
 
-四象限是启发式工具，本项目不宣称首次提出这类分类，也没有把它验证为科学测量标准。项目新写的交付是访谈协议、环节判断、工具选择与试点文档。实际效果取决于模型、信息和任务，需要真实使用验证。
-
-## 技术材料与维护
-
-工具能力的官方来源、候选用途和核查日期见 [工具路线](skills/task-compass/references/tool-routes.md)。推荐不等于统一排名；不在项目中硬编码“某象限必须用某产品”。
-
-PROMPT.md 由 Skill 正文和工具参考合成为单文件，方便普通聊天使用；index.html 同时内嵌该提示词与四象限图。修改后运行 `python scripts/build_prompt.py`；`--check` 检查是否同步。脚本只在本地处理文档，不访问网络。
-
-## 当前状态
-
-- 公开发布的 v0.1：提示词、Skill 与离线页面可直接使用。
-- 未提供受控模型评测或真实业务收益数据；请用自己的任务确认建议。
-- 没有绑定在线后端、采集用户输入或建立持续监测。
-
-## License
-
-项目新写内容采用 [MIT](LICENSE)。外部工具、文档和服务遵循各自许可与使用条件；本项目不替它们授权。
-
-## 三种快速开始方式
-
-1. **网页（最省事）**：[打开在线入口](https://codyqin.github.io/ai-task-compass/)，写一句真实任务，点击生成，再复制到你常用的 AI。无需安装或提供 API Key。
-2. **直接复制**：打开 [PROMPT.md](PROMPT.md)，点击 GitHub 的 Raw 查看原文，复制全文到新对话，接着描述任务。英文请用 [PROMPT.en.md](PROMPT.en.md)。
-3. **Skill**：下载仓库，把 `skills/task-compass/` 整个目录复制到支持 Agent Skills 的工具的技能目录，按该工具说明加载，再说“使用 task-compass 帮我分析这件事”。这不是通用的一键安装命令，普通聊天直接用提示词即可。
-
-**第一句话可以这样写：**
-> 我每周要整理几十条客户反馈，目前手动打标签、统计、写总结。我想减少漏项，不知道应该直接用 AI 还是做工作流。请先问我一个最影响判断的问题，用中文回答。
-
-**拿到结果后怎么用：**先确认 AI 对工作事实的理解，再选择一个环节，拿几条脱敏样本试跑，比较质量、总耗时和返工。没有必要一次实施整个方案。
+ROI 不能从象限直接推出。没有数据就保留未知，不编造提效比例，不把同一收益重复计算。具体记录见 [工作表](WORKSHEET.md)。
 
 ## 常见问题
 
-- **免费吗？** 本项目以 MIT 许可免费分享；你使用的模型或第三方工具可能收费。
-- **页面会直接分析吗？** 不会。它在浏览器里拼装完整消息；粘贴到 AI 后才开始交流。GitHub 托管有常规访问记录，页面没有额外分析脚本，也不会向本项目发送任务内容。粘贴后由所选 AI 的数据政策约束。
-- **没有技术背景怎么办？** 用日常语言描述最近一次任务，允许不知道。要求先给不新增平台的方案；需要代码时再看升级路线。
-- **工具在国内无法访问怎么办？** 说明地区、现有账号、预算和部署条件，要求给可访问候选；不要照单购买。
-- **怎样反馈？** 在 [Issues](https://github.com/CodyQin/ai-task-compass/issues) 留下脱敏任务、模型与日期、哪一步不对及希望怎样改。不要发布客户资料或密钥。
+**免费吗？** 本项目以 MIT 许可分享；模型与第三方平台可能收费，遵循各自条款。
 
-## 维护与贡献
+**页面会上传我的任务吗？** 页面在浏览器里组合文字，不向本项目发送或保存任务内容，没有额外分析脚本。GitHub 托管有常规访问记录；粘贴到 AI 后，适用该服务的数据政策。不要提供密钥或不必要的客户资料。
 
-修改 Skill、中文工具参考或英文协议后，运行 `python scripts/build_prompt.py`；提交前运行 `python scripts/build_prompt.py --check`。只需 Python 3.10+ 标准库，无模型调用。中英文意图应一致，新增场景请说明输入、预期判断和边界。欢迎 PR；未经实测的设想请标为设想。
+**没有技术背景怎么办？** 用日常语言描述最近一次工作。可以回答“不知道”，也可以要求基于明确假设先给一个暂定方案。
 
-由 **Cody Qin / Q弟学了吗** 维护。问题与改进通过 GitHub 讨论；项目不承诺持续响应或业务结果。
+**推荐工具在国内无法访问怎么办？** 说明地区、现有账号、预算、部署和维护条件，请 AI 给可访问候选；不要照单购买。
+
+**效果是否经过验证？** 提示词、Skill 与页面可直接使用；结构检查通过不代表模型建议一定正确。项目没有受控模型评测或真实商业收益数据，示例均有明确标注。
+
+## 维护、反馈与许可
+
+修改 Skill 或工具参考后，运行 `python scripts/build_prompt.py`，再运行 `python scripts/build_prompt.py --check`。只需 Python 3.10+ 标准库；普通使用者无需 Python。欢迎 PR，中英文意图应保持一致。
+
+通过 **[Issues](https://github.com/CodyQin/ai-task-compass/issues)** 反馈：脱敏任务、所用模型与日期、哪里判断不合适、你期待怎样改。不要上传客户原始资料或密钥。
+
+由 **[Cody Qin](https://github.com/CodyQin) / Q弟学了吗** 维护。本项目的原创材料采用 **[MIT](LICENSE)**；外部工具、文档和服务遵循各自许可。本框架是启发式辅助，不宣称首次提出这类分类，也不承诺商业结果。
 
 </details>
