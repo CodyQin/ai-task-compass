@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1600" viewBox="0 0 1600 1600" role="img" aria-label="AI任务四象限：按步骤与信息条件选择方法">
+<rect width="1600" height="1600" fill="#f7f5ef"/>
+<text x="100" y="65" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="26" font-weight="400" fill="#66685e">Q弟学了吗</text>
+<text x="1290" y="65" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="26" font-weight="400" fill="#66685e">任务四象限</text>
+<text x="100" y="126" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="66" font-weight="700" fill="#20221f">这件事，怎么用 AI？</text>
+<text x="100" y="224" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="30" font-weight="400" fill="#66685e">先判断任务，再选方法和工具。</text>
+<rect x="230" y="400" width="570" height="440" rx="24" fill="#e8eee8"/>
+<rect x="800" y="400" width="570" height="440" rx="24" fill="#f2e5dc"/>
+<rect x="230" y="840" width="570" height="495" rx="24" fill="#ecede4"/>
+<rect x="800" y="840" width="570" height="495" rx="24" fill="#f6e8d9"/>
+<polyline points="285,420 285,1320" fill="none" stroke="#e1e1d5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="395,420 395,1320" fill="none" stroke="#e1e1d5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="505,420 505,1320" fill="none" stroke="#e1e1d5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="615,420 615,1320" fill="none" stroke="#e1e1d5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="725,420 725,1320" fill="none" stroke="#e1e1d5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="945,420 945,1320" fill="none" stroke="#e1e1d5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1055,420 1055,1320" fill="none" stroke="#e1e1d5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1165,420 1165,1320" fill="none" stroke="#e1e1d5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1275,420 1275,1320" fill="none" stroke="#e1e1d5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="245,455 1355,455" fill="none" stroke="#e1e1d5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="245,565 1355,565" fill="none" stroke="#e1e1d5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="245,675 1355,675" fill="none" stroke="#e1e1d5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="245,785 1355,785" fill="none" stroke="#e1e1d5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="245,1005 1355,1005" fill="none" stroke="#e1e1d5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="245,1115 1355,1115" fill="none" stroke="#e1e1d5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="245,1225 1355,1225" fill="none" stroke="#e1e1d5" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="800,1400 800,348" fill="none" stroke="#20221f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="800,328 790,351 810,351" fill="#20221f"/>
+<polyline points="180,840 1438,840" fill="none" stroke="#20221f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1458,840 1435,830 1435,850" fill="#20221f"/>
+<circle cx="800" cy="840" r="7" fill="#e87527" stroke="none" stroke-width="3"/>
+<text x="698.5" y="292" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="29" font-weight="700" fill="#20221f">做法越需要探索</text>
+<text x="712.5" y="1407" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="25" font-weight="400" fill="#66685e">步骤可提前固定</text>
+<text x="1265" y="871" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="25" font-weight="700" fill="#20221f">信息不确定程度</text>
+<text x="179" y="871" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="25" font-weight="400" fill="#66685e">信息清楚</text>
+<text x="1278" y="908" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="23" font-weight="400" fill="#66685e">需要补充、理解</text>
+<circle cx="515" cy="523" r="75" fill="#f7f5ef" stroke="none" stroke-width="3"/>
+<polyline points="466,562 466,483" fill="none" stroke="#497968" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="466,562 566,562" fill="none" stroke="#497968" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="482,539 510,508 534,522 558,486" fill="none" stroke="#497968" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="482" cy="539" r="6" fill="#497968" stroke="none" stroke-width="3"/>
+<circle cx="510" cy="508" r="6" fill="#497968" stroke="none" stroke-width="3"/>
+<circle cx="534" cy="522" r="6" fill="#497968" stroke="none" stroke-width="3"/>
+<circle cx="558" cy="486" r="6" fill="#497968" stroke="none" stroke-width="3"/>
+<circle cx="563" cy="484" r="17" fill="#f7f5ef" stroke="#497968" stroke-width="3"/>
+<polyline points="575,496 589,510" fill="none" stroke="#497968" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="417.0" y="631" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="49" font-weight="700" fill="#20221f">动态分析</text>
+<text x="347.0" y="707" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="28" font-weight="400" fill="#66685e">数据已齐，下一步边看边定</text>
+<text x="344.0" y="758" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="26" font-weight="700" fill="#497968">数据分析 · 工具调用 · Agent</text>
+<text x="407.0" y="801" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="24" font-weight="400" fill="#66685e">例如：调查项目延期</text>
+<circle cx="1085" cy="523" r="75" fill="#f7f5ef" stroke="none" stroke-width="3"/>
+<polyline points="1032,558 1056,532 1077,548 1102,515" fill="none" stroke="#ae714a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1032" cy="558" r="5" fill="#ae714a" stroke="none" stroke-width="3"/>
+<circle cx="1056" cy="532" r="5" fill="#ae714a" stroke="none" stroke-width="3"/>
+<circle cx="1077" cy="548" r="5" fill="#ae714a" stroke="none" stroke-width="3"/>
+<circle cx="1102" cy="504" r="29" fill="none" stroke="#ae714a" stroke-width="4"/>
+<polyline points="1124,526 1147,549" fill="none" stroke="#ae714a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1052,466 1058,481 1073,487 1058,493 1052,508 1046,493 1031,487 1046,481" fill="#ae714a"/>
+<text x="987.0" y="631" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="49" font-weight="700" fill="#20221f">探索验证</text>
+<text x="931.0" y="707" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="28" font-weight="400" fill="#66685e">信息与做法，都需要探索</text>
+<text x="915.0" y="758" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="26" font-weight="700" fill="#ae714a">访谈观察 · 联网检索 · 小实验</text>
+<text x="953.0" y="801" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="24" font-weight="400" fill="#66685e">例如：寻找团队提效机会</text>
+<circle cx="515" cy="1019" r="75" fill="#f7f5ef" stroke="none" stroke-width="3"/>
+<rect x="465" y="976" width="85" height="85" rx="9" fill="#ffffff"/>
+<polyline points="470,1004 544,1004" fill="none" stroke="#77804e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="470,1032 544,1032" fill="none" stroke="#77804e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="502,981 502,1055" fill="none" stroke="#77804e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="554" cy="1051" r="27" fill="#77804e" stroke="none" stroke-width="3"/>
+<polyline points="541,1051 551,1061 568,1041" fill="none" stroke="#ffffff" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="417.0" y="1127" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="49" font-weight="700" fill="#20221f">固定执行</text>
+<text x="347.0" y="1203" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="28" font-weight="400" fill="#66685e">规则清楚，重复动作固定做</text>
+<text x="371.0" y="1254" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="26" font-weight="700" fill="#77804e">表格公式 · 脚本 · 自动化</text>
+<text x="359.0" y="1297" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="24" font-weight="400" fill="#66685e">例如：汇总数据、计算完成率</text>
+<circle cx="1085" cy="1019" r="75" fill="#f7f5ef" stroke="none" stroke-width="3"/>
+<rect x="1046" y="971" width="77" height="97" rx="9" fill="#ffffff"/>
+<polyline points="1062,996 1107,996" fill="none" stroke="#c66a2c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1062,1016 1107,1016" fill="none" stroke="#c66a2c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1062,1036 1091,1036" fill="none" stroke="#c66a2c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1124" cy="1046" r="22" fill="#f7f5ef" stroke="#c66a2c" stroke-width="4"/>
+<polyline points="1140,1062 1157,1079" fill="none" stroke="#c66a2c" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="987.0" y="1127" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="49" font-weight="700" fill="#20221f">理解整理</text>
+<text x="923.0" y="1203" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="28" font-weight="400" fill="#66685e">流程固定，让 AI 读懂材料</text>
+<text x="915.0" y="1254" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="26" font-weight="700" fill="#c66a2c">文件读取 · 信息提取 · 知识库</text>
+<text x="941.0" y="1297" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="24" font-weight="400" fill="#66685e">例如：从聊天记录整理周报</text>
+<polyline points="100,1484 1500,1484" fill="none" stroke="#d9dacf" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="100" y="1521" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="25" font-weight="700" fill="#20221f">先分任务   /   再选方法   /   最后验收</text>
+<text x="914" y="1521" dominant-baseline="text-before-edge" font-family="Microsoft YaHei, sans-serif" font-size="24" font-weight="400" fill="#66685e">一项工作，可以组合多种做法。</text>
+</svg>
